@@ -1,0 +1,10 @@
+<content>
+<info>
+	<time>2018-01-07 22:03:52</time>
+	<message>Inserindo Produto Novo.</message>
+</info>
+<content>
+<info>
+	<time>2018-01-07 22:03:52</time>
+	<message>UPDATE estoque.produto SET descricao = 'The Most Dangerous Coffe in the World',  estoque = '35',  preco_custo = '30',  preco_venda = '79',  codigo_barras = '987654320984',  data_cadastro = '2018-01-07',  origem = 'C'  WHERE id = '2'</message>
+</info>

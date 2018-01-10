@@ -1,0 +1,5 @@
+2018-01-09 22:59:29 :: Inserindo Produto Novo.
+2018-01-09 22:59:29 :: SELECT max(id) FROM produto
+2018-01-09 22:59:29 :: INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barras, data_cadastro, origem, id)values('The Best Cake of the Aline Cook II', 21, 60, 99, '1234567845670', '2018-01-09', 'C', 12)
+2018-01-09 22:59:29 :: SELECT * FROM produto WHERE id=4
+2018-01-09 22:59:29 :: UPDATE produto SET descricao = 'The Most Dangerous Coffe in the World II', estoque = 21, preco_custo = 30, preco_venda = 111, codigo_barras = '987654320984', data_cadastro = '2018-01-09', origem = 'C' WHERE id= 4
